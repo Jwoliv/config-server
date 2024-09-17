@@ -1,0 +1,5 @@
+site:
+  props:
+    ip: 127.0.0.1
+    port: 445
+    domain: 'dev.example.com'
